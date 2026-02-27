@@ -1,0 +1,5 @@
+[
+  {"symbol": "AAPL", "shares": 20, "avg_cost": 160},
+  {"symbol": "MSFT", "shares": 10, "avg_cost": 300},
+  {"symbol": "VOO", "shares": 15, "avg_cost": 380}
+]
